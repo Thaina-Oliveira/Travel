@@ -10,12 +10,12 @@ Page made with vanilla CSS, JavaScript and HTML, with nice visual effects and a 
 
 ## 🔗Preview
 
-<a href="https://thaina-oliveira.github.io/Pig-Game-Demo/"><img src="game preview.jpg"></a>
+<a href=""><img src="src/travel.jpeg"></a>
 
 ## 💻Project
 
 Project developed during the course "The Complete JavaScript Course 2024: From Zero to Expert!". <br />
-Access this project <a href="https://thaina-oliveira.github.io/Pig-Game-Demo/">HERE</a> or click on the photo above ⬆️
+Access this project <a href="">HERE</a> or click on the photo above ⬆️
 
 ##  🚀Technologies
 
